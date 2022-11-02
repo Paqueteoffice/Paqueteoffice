@@ -1,0 +1,131 @@
+<html>
+<head>
+<meta name="Description" content="Descargar de forma facil, gratis y sencilla los productos de Microsoft Office que quieras, entre ellos, Word, Excel, Accces, etc.">
+<meta name="keywords" content="Descargar word gratis, Descargar excel gratis, descargar acces gratis, descargar onenote gratis, MIcrosoft Office, descargar Office gratis, descargar power point.">
+<tittle>
+<table>
+<tr>
+<td><font color="#FF4433" face="arial"><h1>Bienvenidos/as, a continuacion les mostrare como descargar e instalar Microsoft Office totalmente licenciado y gratis.</h1></td>
+</tr>
+
+</table>
+
+<center><br><img src="Office.png"></center>
+<center><br><a href="https://www.office.com"><button>Pagina oficial Office</button></a></center>
+
+</tittle>
+</head>
+
+<body background="papel.jpg" text="#070530">
+<br>
+<br><table border="1" background="bgbrown.jpg">
+<tr>
+<td><font color="#FF4433" face="arial"><h2>Descargar e instalar uno, varios o todos los programas que ofrece Microsoft Office, sin verificacion y totalmemnte gratis.</h2></td>
+</tr>
+<tr>
+<td><Font size="4" face="arial"><p>Mucho pasa que queremos instalar ya sea, word, excel u otro programa de Office y ya que no podemos o preferimos no pagar, buscamos descargarlo gratis, pero cuando ya lo vas a instalar te pide una verificacion, como llenar unas encuestas para que te activen las licencias y al final ni funciona.</p>
+<Font size="4" face="arial"><p>Bueno aqui te traigo la solucion...
+<Font size="4" face="arial"><p>¡Por aqui te dejare un enlace de descargar para que puedas descargar el archivo mediante Google drive!</p>
+<br><Font size="4" face="arial"><p>Tambien al final de la pagina te dejare un tutorial de como instalar el paquete...</p>
+<br><a href="https://drive.google.com/file/d/1Ycc8qUg1Kd-JGGPsuxUVUGO1VbeuYtv5/view?usp=sharing"><img src="Descarga.png"></a></td>
+</tr>
+</table>
+<Font size="4" face="arial"><p>A contuniacion... te dejare informacion sobre algunos programas de Office, por si nos sabes cuales instalarte.</p>
+<face="arial"><font color="#FF4433"><h2><p>Algunos de los mas utilizados:</p>
+<center><img src="word.png"></center>
+<center><Font size="6" face="arial"><font color="#0073A1"><p>Microsoft Word.</p></center>
+<center><Font size="3" face="arial"><font color="black"><p style="line-height:200%">Word está diseñado para ayudarle a crear documentos de calidad profesional. Word también puede ayudarle <br>a organizar y escribir documentos de forma más eficaz.
+Cuando crea un documento en Word, <br>puede elegir entre empezar con un documento en blanco o dejar que una plantilla realice automáticamente <br>la mayor parte del trabajo. A partir de aquí, los pasos básicos para crear <br>y compartir documentos son los mismos. Las eficaces herramientas de revisión y modificación <br>de Word le ayudarán a trabajar con otros usuarios para que el documento resulte perfecto.</p></center>
+<center><a href="https://www.areatecnologia.com/videotutorial%20de%20word.htm">Informate mas sobre word</a></center>
+
+<center><img src="Excel.png"></center>
+<center><Font size="6" face="arial"><font color="294B31"><p>Microsoft Excel.</p></center>
+<center><Font size="3" face="arial"><font color="black"><p style="line-height:200%">Excel es una herramienta muy eficaz para obtener información con significado a partir de <br>grandes cantidades de datos. También funciona muy bien con cálculos sencillos y para realizar el seguimiento <br>de casi cualquier tipo de información. La clave para desbloquear todo este potencial <br>es la cuadrícula de las celdas. Las celdas pueden contener números, texto o fórmulas. Los datos se escriben <br>en las celdas y se agrupan en filas y columnas. Esto permite sumar datos, ordenarlos y filtrarlos, <br>ponerlos en tablas y crear gráficos muy visuales. Veamos los pasos básicos para empezar.</p></center>
+<Center><a href="https://rockcontent.com/es/blog/como-usar-excel/">¿Nesesitas mas informacion sobre Excel?</a></center>
+<center><img src="Power.png"></center>
+<center><Font size="6" face="arial"><font color="C94010"><p>Microsoft Power Point.</p></center>
+<center><Font size="3" face="arial"><font color="black"><p style="line-height:200%">Microsoft PowerPoint es un programa de presentación desarrollado por la empresa Microsoft para sistemas <br>operativos Windows, macOS y últimamente para Android y iOS. <p style="line-height:200%">Viene integrado en el paquete ofimático llamado Microsoft Office como un elemento más, <br>que puede aprovechar las ventajas que le ofrecen los demás componentes del equipo para obtener un resultado óptimo.</p>
+
+<p style="line-height:200%">PowerPoint es uno de los programas de presentación más extendidos. Es ampliamente utilizado en distintos campos <br>de la enseñanza, los negocios, entre otros. Según cifras de Microsoft.
+
+Es un programa diseñado para hacer presentaciones <br>con texto esquematizado, así como presentaciones en diapositivas, animaciones de texto e imágenes prediseñadas <br>o importadas desde imágenes de la computadora. Se le pueden aplicar distintos diseños de fuente, plantilla y dibujos. <br>Este tipo de presentaciones suelen ser más fáciles que las de Microsoft Word.</p></p>
+<center><a href="https://es.wikihow.com/usar-PowerPoint">Aprende mas sobre Power point</a></center>
+<center><img src="Access.png"></center>
+<center><Font size="6" face="arial"><font color="95210A"><p>Microsoft Access.</p></center>
+<center><Font size="3" face="arial"><font color="black"><p style="line-height:200%">Access es una herramienta de implementación y diseño de aplicaciones de base de datos <br>que puede usar para realizar un seguimiento de información importante. Puede conservar los datos en el <br>equipo o publicar en la Web para que otros usuarios puedan usar la base de datos con un explorador web.
+
+<br>Muchas personas empiezan a usar Access cuando el programa que usan para realizar un seguimiento de algo gradualmente <br>se vuelve menos apto para la tarea. Por ejemplo, supongamos que es un organizador de eventos <br>y desea realizar un seguimiento de todos los detalles que necesita administrar para que <br>los eventos se realicen correctamente. Si usa un procesador de textos o un programa de hoja de cálculo para ello, puede encontrar <br>fácilmente problemas con datos duplicados e incoherentes. Puede usar software de calendario, pero el seguimiento de la <br>información financiera de un calendario no es adecuado.
+
+`<p style="line-height:200%">Bases de datos relacionales en Access
+<br>A veces, necesita una base de datos relacional para realizar un seguimiento de dicha información: <br>un almacén de datos que se ha separado en colecciones de datos más pequeñas (denominadas tablas) <br>para eliminar la redundancia y, a continuación, se relacionan conjuntamente en función de bits comunes <br>de información (denominados campos). Por ejemplo, una base de datos relacional de planificación de eventos puede contener <br>una tabla con información de cliente, una tabla con información de proveedor y una <br>tabla con información de eventos. La tabla con información de evento puede tener un campo para relacionarlo con la tabla <br>de cliente y un campo para relacionarlo con la tabla de proveedor. De esa forma, por ejemplo, <br>si el número de teléfono de un proveedor cambiaba, la información podría cambiarse una vez en la tabla de proveedores, <br>en lugar de en todos los casos que implicasen al proveedor.
+
+<br>Access es una herramienta que puede usar para desarrollar de forma rápida y sencilla aplicaciones de base de datos <br>relacionales que le ayudan a administrar la información. Puede crear una base de datos <br>para ayudarle a realizar un seguimiento de casi cualquier tipo de información, como inventario, contactos profesionales o <br>procesos empresariales. De hecho, Access incluye plantillas que puede usar inmediatamente para <br>realizar un seguimiento de una variedad de información, lo que facilita las cosas incluso para un principiante.</p></p></center>
+
+<a href="https://laedu.digital/2019/12/16/aprendiendo-a-usar-microsoft-access/">¿Nesesitas mas ayuda con access?</a>
+
+<br><img src="OneDrive.png">
+<center><Font size="6" face="arial"><font color="0D4DBB"><p>One Drive</p></center>
+<center><Font size="3" face="arial"><font color="black"><p style="line-height:200%">OneDrive es el servicio en la nube de Microsoft que le conecta a todos los archivos. Te permite almacenar y proteger <br>tus archivos, compartirlos con otros usuarios y acceder a ellos desde cualquier lugar en todos tus dispositivos. <br>Cuando usa OneDrive cuenta proporcionada por su empresa o escuela, a veces se denomina "OneDrive para el trabajo o la escuela ". <br>Antes se llamaba "OneDrive para la Empresa", por lo que es posible que todavía lo vea llamado así en lugares.</p>
+
+<a href="https://pisapapeles.net/como-usar-onedrive/">Aqui puedes saber mas sobre one drive</a>
+
+<face="arial"><font color="#FF4433"><h2><p text align="left">Algunos de los menos conocidos, pero siempre utiles:</p>
+
+<center><img src="Outlook.png"></center>
+<center><Font size="6" face="arial"><font color="0D4DBB"><p>Outlook</p></center>
+<center><Font size="3" face="arial"><font color="black"><p style="line-height:200%">Outlook le permite enviar y recibir mensajes de correo electrónico, administrar su calendario, almacenar nombres <br>y números de los contactos y realizar un seguimiento de sus tareas. Sin embargo, incluso si usa Outlook todos los días, <br>es posible que no conozca algunas de las funciones interesantes que pueden ayudarle a ser más productivo. </p>
+<a href="https://www.dongee.com/tutoriales/para-que-sirve-outlook/">¿Quieres saber mas de Outlook?</a>
+<br><img src="Publisher.png">
+<center><Font size="6" face="arial"><font color="3F845c"><p>Publisher</p></center>
+<center><Font size="3" face="arial"><font color="black"><p style="line-height:200%">Publisher es una aplicación de publicación de escritorio que le ayuda a crear publicaciones de <br>apariencia profesional y gran riqueza visual.
+
+Con Publisher en el PC, puede:
+
+<br>Diseñar contenido para la publicación impresa o en línea en una gran variedad de plantillas prediseñadas.
+
+<br>Crear elementos sencillos como tarjetas de felicitación y etiquetas.
+
+Crear proyectos <br>complejos como anuarios, catálogos y boletines de correo electrónico profesionales.</p>
+
+<a href="https://es.wikipedia.org/wiki/Microsoft_Publisher">¿Te interesa saber mas?</a>
+<br><img src="OneNote.png">
+<center><Font size="6" face="arial"><font color="7120B9"><p>OneNote</p></center>
+<center><Font size="3" face="arial"><font color="black"><p style="line-height:200%">OneNote es su propio bloc de notas digital.
+
+Si tiene un millón de ideas, de tareas pendientes o de <br>cosas que recordar, OneNote es la aplicación perfecta para tenerlo todo bajo control.
+
+Con OneNote, puede:
+
+<br>Escribir notas o grabar audio en su portátil.
+
+<br>Dibujar o escribir ideas en su tableta.
+
+<br>Agregar una imagen desde su teléfono.
+
+<br>Encontrar notas al momento.
+
+<br>Mover notas por la página como quiera.
+
+<br>Organizar las páginas en secciones.</p>
+<br><a href="http://apuntesdeoffice.blogspot.com/2013/10/que-es-onenote-y-para-que-sirve.html">Informate mas sobre OneNote</a>
+<br>
+<br>
+<br>
+<br>
+<table background="bgbrown.jpg">
+<tr>
+<td colspan="2"><center>Tutorial para instalar el paquete Office</center></td>
+</tr>
+<tr>
+<td>Enlace You tube:</td>
+<td><a href="https://youtu.be/3QG6vFcY4jk">¡Click aqui para ir al tutorial!</a></td>
+</tr>
+</table>
+
+<br>
+<br>
+<br>
+
+<br><center><Font size="2" face="arial"><font color="black">Tienes algun problema o alguna duda? Puedes contactarte a este correo electronico<a href="mailto:armandoernesto537@gmail.com"> armandoernesto537@gmail.com</a>
+</body>
+</html>
